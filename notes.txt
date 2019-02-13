@@ -1,5 +1,5 @@
-git学习笔记
-1.安装git
-2.配置git
+锘縢it瀛︿範绗旇
+1.瀹夎git
+2.閰嶇疆git
 git config 
 3.git init/git clone
