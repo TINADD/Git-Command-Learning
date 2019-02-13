@@ -1,0 +1,5 @@
+git学习笔记
+1.安装git
+2.配置git
+git config 
+3.git init/git clone
